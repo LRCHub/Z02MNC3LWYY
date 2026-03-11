@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "縁",
+  "base_artist": "ヒグチアイ",
+  "createdAt": "2026-03-11T08:21:37.141755Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "縁(えにし)の糸",
+      "artist": "Mariya Takeuchi",
+      "has_synced": true,
+      "path": "select/01_縁(えにし)の糸_Mariya_Takeuchi.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "縁 〜Spring has come at last",
+      "artist": "暁Records",
+      "has_synced": true,
+      "path": "select/02_縁_〜Spring_has_come_at_last_暁Records.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "縁 〜Spring has come at last",
+      "artist": "Stack",
+      "has_synced": true,
+      "path": "select/03_縁_〜Spring_has_come_at_last_Stack.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "縁 ～Spring has come at last",
+      "artist": "暁Records",
+      "has_synced": true,
+      "path": "select/04_縁_~Spring_has_come_at_last_暁Records.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "縁 -ENISHI-",
+      "artist": "HYPNOSISMIC -D.R.B- (DOTSUITARE-HOMPO)",
+      "has_synced": true,
+      "path": "select/05_縁_-ENISHI-_HYPNOSISMIC_-D.R.B-_(DOTSUITARE-HOMPO).lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "縁 -YUAN-",
+      "artist": "Snow Man",
+      "has_synced": true,
+      "path": "select/06_縁_-YUAN-_Snow_Man.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "縁 -YUÁN-",
+      "artist": "Snow Man",
+      "has_synced": true,
+      "path": "select/07_縁_-YUÁN-_Snow_Man.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "縁 -YUAN- (Instrumental)",
+      "artist": "Snow Man",
+      "has_synced": false,
+      "path": "select/08_縁_-YUAN-_(Instrumental)_Snow_Man.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "縁(えにし)の糸",
+      "artist": "竹内まりや",
+      "has_synced": false,
+      "path": "select/09_縁(えにし)の糸_竹内まりや.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "縁",
+      "artist": "ギルガメッシュ",
+      "has_synced": false,
+      "path": "select/10_縁_ギルガメッシュ.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "縁",
+      "artist": "ヒグチアイ",
+      "has_synced": false,
+      "path": "select/pl_01_縁_ヒグチアイ.txt"
+    }
+  ]
+}
